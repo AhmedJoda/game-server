@@ -1,0 +1,17 @@
+post http://localhost:1000/api/matches
+Content-Type: application/json
+
+{
+"awayTeam": "Zamalek",
+"awayTeamScore": 0,
+"date": "2020-12-03",
+"duration": "3",
+"endTime": "03:24",
+"homeTeam": "barcaa",
+"homeTeamScore": 23,
+"isActive": "will start",
+"league": "Egyption",
+"startTime": "03:24"
+}
+
+###
